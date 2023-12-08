@@ -1,9 +1,9 @@
 {
 	"response": [
 		{
-			"maintainer": "",
-			"oem": "",
-			"device": "",
+			"maintainer": "yairpatch",
+			"oem": "Xiaomi",
+			"device": "Venus",
 			"filename": "Matrixx-v10.0-Unofficial-venus-Gapps-20231208-ota.zip",
 			"download": "https://drive.google.com/file/d/1v27i2Aw8AIVDAChba1bc4VOCGDjgVD9I/view?usp=sharing",
 			"timestamp": 1702028950,
