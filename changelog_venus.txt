@@ -1,0 +1,9 @@
+Device: Xiaomi Mi11 (venus)
+Device maintainer:yairpatch
+
+==== Changelog 08 Nov 2023 =====
+
+- Update blobs to OOS 13.1.0.592(EX01)
+- Firmware included
+- Improved auto brightness
+- Fixed touch not working few seconds on boot
